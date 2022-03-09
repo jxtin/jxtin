@@ -2,7 +2,7 @@
 
 
 
-[![Website](https://img.shields.io/website?label=jxtin.me&style=for-the-badge&url=https%3A%2F%2Fparthshukla.netlify.app)](https://www.jxtin.me)
+[![Website](https://img.shields.io/website?label=jxtin.me&style=for-the-badge&url=https://www.jxtin.me)](https://www.jxtin.me)
 
 ### I am a Freelancer, Tech enthusiast and a student!
 
@@ -63,10 +63,15 @@
  <br>
   
  <p align="center">
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jxtin&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+ 
   <b>GitHub Visitors</b>
   <br>
   <br>
   <img alt="Page counter" src="https://profile-counter.glitch.me/jxtin/count.svg">
 </p>
+
+
 
 
