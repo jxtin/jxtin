@@ -58,7 +58,7 @@
 
 ### Github Stats
 
-<img alt="Jxtin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jxtin&show_icons=true&count_private=true" />
+<img alt="Jxtin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jxtin&show_icons=true&count_private=true&theme=midnight-purple" />
 
 <br>
  <br>
