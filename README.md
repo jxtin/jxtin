@@ -2,7 +2,7 @@
 
 
 
-[![Website](https://img.shields.io/website?label=jxtin.me&style=for-the-badge&url=https://www.jxtin.me)](https://www.jxtin.me)
+[![Website](https://img.shields.io/website?label=jxtin.co.in&style=for-the-badge&url=https://jxtin.co.in)](https://jxtin.co.in)
 
 ### I am a Freelancer, Tech enthusiast and a student!
 
