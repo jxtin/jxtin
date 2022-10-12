@@ -1,4 +1,4 @@
-### Hi there, I'm Jatin Chellani - aka [Jxtin](https://www.jxtin.me) 👋
+### Hi there, I'm Jatin Chellani - aka [Jxtin](https://jxtin.co.in) 👋
 
 
 
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.jxtin.me" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antu_application-vnd.oasis.opendocument.web-template.svg/1024px-Antu_application-vnd.oasis.opendocument.web-template.svg.png" />](https://www.jxtin.me)
+[<img align="left" alt="https://jxtin.co.in" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antu_application-vnd.oasis.opendocument.web-template.svg/1024px-Antu_application-vnd.oasis.opendocument.web-template.svg.png" />](https://jxtin.co.in)
 <br>
 [<img align="left" alt="_.jxtin._ | LinkedIn" width="28px" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />](https://www.linkedin.com/in/jxtin/) 
 <br>
