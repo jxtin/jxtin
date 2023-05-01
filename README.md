@@ -1,8 +1,8 @@
-### Hi there, I'm Jatin Chellani - aka [Jxtin](https://jxtin.co.in) 👋
+### Hi there, I'm Jatin Chellani - aka [Jxtin](https://jxtin.github.io) 👋
 
 
 
-[![Website](https://img.shields.io/website?label=jxtin.co.in&style=for-the-badge&url=https://jxtin.co.in)](https://jxtin.co.in)
+[![Website](https://img.shields.io/website?label=jxtin.github.io&style=for-the-badge&url=https://jxtin.github.io)](https://jxtin.github.io)
 
 ### I am a Freelancer, Tech enthusiast and a student!
 
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://jxtin.co.in" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antu_application-vnd.oasis.opendocument.web-template.svg/1024px-Antu_application-vnd.oasis.opendocument.web-template.svg.png" />](https://jxtin.co.in)
+[<img align="left" alt="https://jxtin.github.io" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antu_application-vnd.oasis.opendocument.web-template.svg/1024px-Antu_application-vnd.oasis.opendocument.web-template.svg.png" />](https://jxtin.github.io)
 <br>
 [<img align="left" alt="_.jxtin._ | LinkedIn" width="28px" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />](https://www.linkedin.com/in/jxtin/) 
 <br>
